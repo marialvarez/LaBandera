@@ -1,0 +1,22 @@
+li {
+    list-style: none;
+    display:inline;
+    font-family:sans-serif;
+}
+.yellow {
+    background-color: yellow;
+    border: 1px solid yellow;
+    width:200px;
+    height: 200px;
+    padding:10px 50px 70px 5px;
+    text-align: left;
+    margin-right: 10px;
+}
+.red {
+    background-color: crimson;
+    border: 1px solid black;
+    width:200px;
+    padding:10px 100px 70px 5px;
+    text-align: left;
+    margin-right:10px;
+}
